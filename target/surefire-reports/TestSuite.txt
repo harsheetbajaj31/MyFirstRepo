@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.252 s <<< FAILURE! - in TestSuite
+testCases.homePage.testValiditingTitle  Time elapsed: 4.757 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED COURS8ES] but found [FEATURED COURSES]
+	at testCases.homePage.testValiditingTitle(homePage.java:25)
+
